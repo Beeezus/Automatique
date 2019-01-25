@@ -1,0 +1,8 @@
+{
+    "smtp_server": "smtp.reply.it",
+    "port": 465,
+    "user": "crdevicesiot",
+    "password": "*wLd2aA9",
+    "subject": "crdevicesiot@reply.it",
+    "send_to": "s.olivieri@reply.it"
+}

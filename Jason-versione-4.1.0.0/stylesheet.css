@@ -1,0 +1,171 @@
+QLineEdit{
+    border: 1px solid #502088; 
+    border-radius:10px; 
+    height:40px; 
+    color: #502088;  
+    font:16pt 'Verdana';
+}
+
+QMainWindow{
+    background-color:#C098FF; 
+}
+
+QComboBox{
+    border: 1px solid #502088; 
+    border-radius:10px; 
+    height:40px; 
+    color: #502088;  
+    font:16pt 'Verdana';
+}
+
+QComboBox:item:selected:active{
+    background-color: #502088;
+     color: #C098FF;
+}
+
+QPushButton{
+    background-color: #502088 ; 
+    color: #C098FF; 
+    height:50; 
+    width:100;
+    border-radius:15px;
+}
+
+QPushButton:hover{
+    background-color: #FFE600; 
+    color: #502088;
+    border: 2px solid #502088; 
+}
+
+QPushButton:pressed{
+    background-color: #502088; 
+    color:#FFE600;
+    border: 2px solid #FFE600; 
+}
+
+QPushButton#button_open_activate_things{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+QPushButton#button_open_activate_things:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+QPushButton#button_open_deactivate_things{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+
+QPushButton#button_open_deactivate_things:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+
+QPushButton#button_activate_dummy{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+QPushButton#button_activate_dummy:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+QPushButton#button_refresh_get{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+QPushButton#button_refresh_get:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+
+QPushButton#button_open_append_excel{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+QPushButton#button_open_append_excel:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+QPushButton#button_open_excel_eis{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+
+QPushButton#button_open_excel_eis:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+QPushButton#button_open_excel_datalake{
+    background-color:#502088;
+    height:400px;
+    border: 2px solid #000000;
+}
+
+QPushButton#button_open_excel_datalake:hover{
+    background-color:#28064e;
+    border: 2px solid #502088;
+}
+
+QLabel{
+    color:#502088;
+}
+
+
+QLabel#label_info{
+    height:400px;
+}
+
+QMessageBox{
+    background-color: #C098FF ; 
+    color: #502088; 
+    height:50; 
+    border-radius:15px
+}
+
+#toolbar{
+    background-color:#C098FF; 
+    color:#502088;
+}
+
+QToolButton{
+    padding:15;
+}
+
+QToolButton:hover{
+    background-color:#FFE600;
+    border: 1px solid #502088;
+}
+
+#menu:item{
+    background-color:#C098FF; 
+    color:#502088;
+}
+
+QMenuBar#menubar{
+    background-color:#502088 ; 
+    color:#C098FF;
+}
+
+QMenuBar#menubar:item:selected{
+    background-color:#f0f0f0 ; 
+    color:#502088;
+}
+

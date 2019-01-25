@@ -1,0 +1,1146 @@
+{
+    "WHr_I": {
+        "channel":"569",
+        "multipler":"1",
+        "active": true,
+        "description": "Active energy delivered",
+        "trend_id": 600000
+    },
+    "VARHr_I": {
+        "channel": "1356",
+        "multipler": "0.001",
+        "active": true,
+        "description": "Reactive energy delivered",
+        "trend_id": 7800000
+    },
+    "ChilledWater": {
+        "channel": "4008",
+        "multipler": "0.001",
+        "active": true,
+        "description": "Chilled Energy",
+        "trend_id": 6701000
+    },
+    "V_water": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "Contatore_litri_Acquedotto.Water Volume",
+        "trend_id": 6600000
+    },
+    "V_gas": {
+        "channel": "4000",
+        "multipler": "1",
+        "active": true,
+        "description": "Natural Gas Volume",
+        "trend_id": 6501000
+    },
+    "customId_Energia_Termica": {
+        "channel": "4006",
+        "multipler": "1",
+        "active": true,
+        "description": "Energia_Termica",
+        "trend_id": 6800000
+    },
+    "HeatEnergy": {
+        "channel": "4007",
+        "multipler": "0.001",
+        "active": true,
+        "description": "Heat energy",
+        "trend_id": 6801000
+    },
+    "customId_Flusso_Totale_Negativo": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 31800000
+    },
+    "customId_Flusso_Totale_Positivo": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 31900000
+    },
+    "customId_Flusso_Giornaliero_Totale": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 32500000
+    },
+    "customId_Flusso_Totale_Netto": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 32800000
+    },
+    "customId_Flusso_Annuale_Totale": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 32700000
+    },
+    "customId_Flusso_Mensile_Totale": {
+        "channel": "4003",
+        "multipler": "1",
+        "active": true,
+        "description": "",
+        "trend_id": 32600000
+    },
+    "WHrAIn": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered A",
+        "trend_id": 7100000
+    },
+    "WHrBIn": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered B",
+        "trend_id": 7200000
+    },
+    "WHrCIn": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered C",
+        "trend_id": 7300000
+    },
+    "WHr1In": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered rate 1",
+        "trend_id": 7400000
+    },
+    "WHr2In": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered rate 2",
+        "trend_id": 7500000
+    },
+    "WHr3In": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered rate 3",
+        "trend_id": 7600000
+    },
+    "WHr4In": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered rate 4",
+        "trend_id": 7700000
+    },
+   
+    "VARHr_O": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive energy received",
+        "trend_id": 7900000
+    },
+    "VBN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage B-N",
+        "trend_id": 900000
+    },
+    "VCA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage C-A",
+        "trend_id": 8200000
+    },
+    "VAB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage A-B",
+        "trend_id": 8000000
+    },
+    "VCN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage C-N",
+        "trend_id": 1000000
+    },
+    "VAN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage A-N",
+        "trend_id": 800000
+    },
+    "VBC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage B-C",
+        "trend_id": 8100000
+    },
+    "PFTtl": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Power Factor",
+        "trend_id": 6100000
+    },
+    "VA_Ttl": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent Power",
+        "trend_id": 8500000
+    },
+    "IB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current B",
+        "trend_id": 5400000
+    },
+    "IC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current C",
+        "trend_id": 5500000
+    },
+    "Hz ": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Frequency",
+        "trend_id": 5600000
+    },
+    "IA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current A",
+        "trend_id": 5300000
+    },
+    "VLLAvg": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage L-L Avg",
+        "trend_id": 8300000
+    },
+   
+    "WA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active Power A",
+        "trend_id": 300000
+    },
+    "WB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active Power B",
+        "trend_id": 400000
+    },
+    "WC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active Power C",
+        "trend_id": 500000
+    },
+    "WTtl": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active Power",
+        "trend_id": 200000
+    },
+    "VLNAvg": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage L-N Avg",
+        "trend_id": 8400000
+    },
+    "WD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Active Power",
+        "trend_id": 5801000
+    },
+    "VARA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive Power A",
+        "trend_id": 8700000
+    },
+    "VARB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive Power B",
+        "trend_id": 8800000
+    },
+    "VARC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive Power C",
+        "trend_id": 8900000
+    },
+    "VARD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Reactive Power",
+        "trend_id": 9100000
+    },
+    "VARTtl": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive Power",
+        "trend_id": 8600000
+    },
+    "IN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current N",
+        "trend_id": 6000000
+    },
+    "VARHr": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Reactive energy",
+        "trend_id": 7002000
+    },
+    "WHr": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy",
+        "trend_id": 600000
+    },
+    "VAD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Apparent Power",
+        "trend_id": 9300000
+    },
+    "dV_dt_water": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Contatore_litri_Acquedotto.Water Volume Flow Rate",
+        "trend_id": 9200000
+    },
+    
+    "dV_dt_gas": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Natural Gas Volume Flow Rate",
+        "trend_id": 12400000
+    },
+    "customId_Pressione": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Pressione",
+        "trend_id": 18500000
+    },
+    "Temp": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Temperatura.Temperature",
+        "trend_id": 4500000
+    },
+    "customId_Potenza_reattiva_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_reattiva_A",
+        "trend_id": 8701000
+    },
+    "customId_Potenza_reattiva_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_reattiva_B",
+        "trend_id": 8801000
+    },
+    "customId_Potenza_reattiva_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_reattiva_C",
+        "trend_id": 8901000
+    },
+    "customId_Fattore_di_potenza_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_potenza_A",
+        "trend_id": 18000000
+    },
+    "customId_Fattore_di_potenza_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_potenza_B",
+        "trend_id": 18100000
+    },
+    "customId_Fattore_di_potenza_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_potenza_C",
+        "trend_id": 18200000
+    },
+    "customId_Potenza_attiva_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_attiva_A",
+        "trend_id": 301000
+    },
+    "customId_Potenza_attiva_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_attiva_B",
+        "trend_id": 401000
+    },
+    "customId_Potenza_attiva_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_attiva_C",
+        "trend_id": 501000
+    },
+    "XCBR1_CBTripTm": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Trip operating time",
+        "trend_id": 6401000
+    },
+    "IAD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Current A",
+        "trend_id": 9400000
+    },
+    "IBD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Current B",
+        "trend_id": 9500000
+    },
+    "XCBR1_Pos": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "XCBR1_Pos",
+        "trend_id": 9700000
+    },
+    "SCBR1_TtlCumA2": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Total cumulative breaking current^2",
+        "trend_id": 9800000
+    },
+    "ICD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Current C",
+        "trend_id": 9600000
+    },
+    "PkIAD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Peak Demand Current A",
+        "trend_id": 9900000
+    },
+    "PkIBD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Peak Demand Current B",
+        "trend_id": 10000000
+    },
+    "WHr_O": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy received",
+        "trend_id": 1100000
+    },
+    "PkICD": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Peak Demand Current C",
+        "trend_id": 10100000
+    },
+    "XCBR1_CBClsPosCnt": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Cumulative Open to Close counter (non resettable)",
+        "trend_id": 10200000
+    },
+    "MMXU1_Ares": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Residual current I0 sum",
+        "trend_id": 10300000
+    },
+    "XCBR1_CBChaMot_Tm": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Motor last charging time after closing",
+        "trend_id": 10400000
+    },
+    "IUnbalW": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current Unbalance Worst",
+        "trend_id": 12300000
+    },
+    "IDAvg": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Current Avg",
+        "trend_id": 5900000
+    },
+    "IND": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Demand Current N",
+        "trend_id": 11100000
+    },
+    "VA_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent Power A",
+        "trend_id": 11300000
+    },
+    "VA_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent Power B",
+        "trend_id": 11400000
+    },
+    "VA_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent Power C",
+        "trend_id": 11500000
+    },
+    "thd_VAB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage A-B",
+        "trend_id": 10501000
+    },
+    "thd_VAN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage A-N",
+        "trend_id": 10801000
+    },
+    "thd_VBC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage B-C",
+        "trend_id": 10601000
+    },
+    "thd_VBN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage B-N",
+        "trend_id": 10901000
+    },
+    "THDVAB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage A-B THD",
+        "trend_id": 10500000
+    },
+    "THDVAN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage A-N THD",
+        "trend_id": 10800000
+    },
+    "thd_VCA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage C-A",
+        "trend_id": 10701000
+    },
+    "thd_VCN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Voltage C-N",
+        "trend_id": 11001000
+    },
+    "THDVBC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage B-C THD",
+        "trend_id": 10600000
+    },
+    "THDVBN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage B-N THD",
+        "trend_id": 10900000
+    },
+    "THDVCA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage C-A THD",
+        "trend_id": 10700000
+    },
+    "THDVCN": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Voltage C-N THD",
+        "trend_id": 11000000
+    },
+    "VAHr": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent energy",
+        "trend_id": 11200000
+    },
+    "THDIA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current A THD",
+        "trend_id": 11600000
+    },
+    "THDIB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current B THD",
+        "trend_id": 11700000
+    },
+    "THDIC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Current C THD",
+        "trend_id": 11800000
+    },
+    "thd_IA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Current A",
+        "trend_id": 11601000
+    },
+    "thd_IB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Current B",
+        "trend_id": 11701000
+    },
+    "thd_IC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "thd Current C",
+        "trend_id": 11801000
+    },
+    "XCBR1_CBElecTripCntRs": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Trip on Electrical fault counter (Close to SDE)",
+        "trend_id": 11900000
+    },
+    "XCBR1_CBTripCntRs": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Trip counter (Close to SD position)",
+        "trend_id": 12000000
+    },
+    "V_gas_1": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "V_gas_1",
+        "trend_id": 6501000
+    },
+    "dV_dt_gas_1": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Natural Gas Volume Flow Rate",
+        "trend_id": 12400000
+    },
+    "customId_Fattore_di_potenza": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore di potenza",
+        "trend_id": 5200000
+    },
+    "WHr_O_Pos_NonReset": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy received count negatively non reset",
+        "trend_id": 12100000
+    },
+    "WHr_I_Pos_NonReset": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Active energy delivered count positively non reset",
+        "trend_id": 12200000
+    },
+    "VAHrIn": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Apparent energy delivered",
+        "trend_id": 12600000
+    },
+    "SCBR1_AccAbrPhsA": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Breaker contact abrasion F1",
+        "trend_id": 17400000
+    },
+    "SCBR1_AccAbrPhsB": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Breaker contact abrasion F2",
+        "trend_id": 17500000
+    },
+    "SCBR1_AccAbrPhsC": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Breaker contact abrasion F3",
+        "trend_id": 17600000
+    },
+    "SCBR1_AccAbrNeut": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Breaker contact abrasion N",
+        "trend_id": 17700000
+    },
+    "customId_Potenza_attiva_L1": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Attiva Prelevata Istantanea F1 - Trifase",
+        "trend_id": 300000
+    },
+    "customId_Potenza_attiva_L2": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Attiva Prelevata Istantanea F2 - Trifase",
+        "trend_id": 400000
+    },
+    "customId_Potenza_attiva_L3": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Attiva Prelevata Istantanea F3 - Trifase",
+        "trend_id": 500000
+    },
+    "customId_Potenza_reattiva_L1": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Reattiva Prelevata Istantanea F1 - Trifase",
+        "trend_id": 8700000
+    },
+    "customId_Potenza_reattiva_L2": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Reattiva Prelevata Istantanea F2 - Trifase",
+        "trend_id": 8800000
+    },
+    "customId_Potenza_reattiva_L3": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza Reattiva Prelevata Istantanea F3 - Trifase",
+        "trend_id": 8900000
+    },
+    "customId_Fattore_di_potenza_totale": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Power Factor",
+        "trend_id": "5200000(?)"
+    },
+    "HeatPower": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Heat Power",
+        "trend_id": 17800000
+    },
+    "ChilledPower": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Chilled Power",
+        "trend_id": 17900000
+    },  
+    "customId_Temperatura_Vapore": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Temperatura_Vapore",
+        "trend_id": 24000000
+    },
+    "customId_Portata_Volumetrica": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Portata_Volumetrica",
+        "trend_id": 24100000
+    },
+    "customId_Potenza_Termica": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_Termica",
+        "trend_id": 17800000
+    },
+    "customId_Contatore_mass": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Contatore_mass",
+        "trend_id": 24200000
+    },
+    "customId_Temperatura_Condensa": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Temperatura_Condensa",
+        "trend_id": 24300000
+    },
+    "customId_Portata_Massica": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Portata_Massica",
+        "trend_id": 24400000
+    },
+    "customId_Fattore_di_potenza_L1": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 18000000
+    },
+    "customId_Fattore_di_potenza_L2": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 18100000
+    },
+    "customId_Fattore_di_potenza_L3": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 18200000
+    },
+    "customId_Fattore_di_potenza_trifase": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 5200000
+    },
+    "customId_Fattore_di_Potenza_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_Potenza_A",
+        "trend_id": 18000000
+    },
+    "customId_Fattore_di_Potenza_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_Potenza_B",
+        "trend_id": 18100000
+    },
+    "customId_Fattore_di_Potenza_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Fattore_di_Potenza_C",
+        "trend_id": 18200000
+    },
+    "customId_Energia_Reattiva_induttiva": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Energia_Reattiva_induttiva",
+        "trend_id": 18300000
+    },
+    "customId_Tensione_Trifase_Fase-Neutro": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Tensione_Trifase_Fase-Neutro",
+        "trend_id": 8400000
+    },
+    "customId_Corrente_Trifase": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Corrente_Trifase",
+        "trend_id": 5900000
+    },
+    "customId_Tensione_Trifase_Fase-Fase": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Tensione_Trifase_Fase-Fase",
+        "trend_id": 8300000
+    },
+    "customId_Energia_Reattiva_capacitiva": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Energia_Reattiva_capacitiva",
+        "trend_id": 18400000
+    },
+    "customId_Potenza_Reattiva": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_Reattiva",
+        "trend_id": 9100000
+    },
+    "customId_Kvar": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Kvar",
+        "trend_id": 18400000
+    },
+    "customId_Potenza_Attiva": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "Potenza_Attiva",
+        "trend_id": 5800000
+    },
+    "customId_Potenza_Reattiva_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 8700000
+    },
+    "customId_Potenza_Reattiva_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 8800000
+    },
+    "customId_Potenza_Reattiva_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 8900000
+    },
+    "customId_Potenza_Attiva_A": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 301000
+    },
+    "customId_Potenza_Attiva_B": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 401000
+    },
+    "customId_Potenza_Attiva_C": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 501000
+    },
+    "customId_Tensione_Media_L-L": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 8300000
+    },
+    "customId_Tensione_Media_L-N": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 8400000
+    },
+    "customId_Corrente_Media": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 5900000
+    },
+    "customId_Delta_Temperatura": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32000000
+    },
+    "customId_Rapporto_Transito_Segnale_Ultrasuoni": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32100000
+    },
+    "customId_Portata_Massima_Giornata": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32200000
+    },
+    "customId_Temperatura_Ritorno": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32300000
+    },
+    "customId_Diametro_Interno_Tubo": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32400000
+    }, 
+    "customId_Temperatura_Mandata": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 30700000
+    },
+    "customId_Portata_Massima_Mese": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 32900000
+    },
+    "customId_Velocità_Fluido": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "",
+        "trend_id": 33000000
+    },
+    "customId_Energia_Frigorifera_Positiva": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Energia_Frigorifera_Positiva",
+        "trend_id": 33100000
+    },
+    "customId_Potenza_Frigorifera": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Potenza_Frigorifera",
+        "trend_id": 17901000
+    },
+    "customId_Energia_Frigorifera_Netta": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Energia_Frigorifera_Netta",
+        "trend_id": 6700000
+    },
+    "customId_Energia_Frigorifera_Negativa": {
+        "channel": "",
+        "multipler": "",
+        "active": false,
+        "description": "customId_Energia_Frigorifera_Negativa",
+        "trend_id": 33200000
+    }
+}

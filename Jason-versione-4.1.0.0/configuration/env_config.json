@@ -1,0 +1,21 @@
+{
+    "veig":{
+        "environment_prefix":"esol_ap07615_prod",
+        "stage":"prod",
+        "api_id_post":"1nua04cxh0",
+        "api_id_get":"iedzy8bm5b",
+        "environment":"prod_ap11531",
+        "account_post":"saml-GG-SH-AWS-IOT-E-Solution-Prod-esol-ap07615-prod",
+        "account_get":"saml-GG-SH-AWS-IOT-E-Solution-Prod-esol-ap11811-prod"
+    },
+
+    "conad-eig1":{
+        "environment_prefix":"esol_ap07615_dev",
+        "stage":"dev",
+        "api_id_post":"j0hgzlby90",
+        "api_id_get":"4cgdak5gr0",
+        "environment":"dev_ap11531",
+        "account_post":"saml-GG-SH-AWS-IOT-E-Solution-DevQa-esol-ap07615-dev",
+        "account_get":"saml-GG-SH-AWS-IOT-E-Solution-DevQa-esol-ap11811-dev"
+    }
+}

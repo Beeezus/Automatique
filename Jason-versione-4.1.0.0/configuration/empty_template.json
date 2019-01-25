@@ -1,0 +1,45 @@
+{
+    "version": "1.0",
+    "gateway_id": "",
+    "command": "activate-thing",
+    "parameters": {
+        "interaction_mode": "gateway",
+        "outbound_communication_modes": [
+            "topic"
+        ],
+        "environment_prefix": "",
+        "radio_type": "Eth",
+        "filter_tag": [
+            {
+                "id": 500,
+                "tag": "CommunicationCode",
+                "period": 900,
+                "trendType": "CommCodeValue"
+            }
+        ],
+        "meter_name": "",
+        "device_type": "fhttps",
+        "serial_number": "",
+        "model": "",
+        "user_name": "",
+        "password": "",
+        "file_format": {
+            "type": "xml",
+            "root_element": "XML",
+            "data_element": "action/MeterData",
+            "value_element": "Value",
+            "tag_element": "MeterLocalId",
+            "timestamp_element": "AcquisitionDateTime",
+            "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+        },
+        "row_filter": {
+            "column_name": "",
+            "value": ""
+        },
+        "file_name_filter": {
+            "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+            "match_group_value": ""
+        },
+        "maker": ""
+    }
+}
